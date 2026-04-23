@@ -1,4 +1,4 @@
-<img width="1287" height="722" alt="Screenshot 2026-04-23 at 7 49 56 PM" src="https://github.com/user-attachments/assets/39ce2da6-ba6c-4276-99a5-8bd54bb3ebc6" /># 📊 California Labor Market Analysis (1990-2024)
+📊 California Labor Market Analysis (1990-2024)
 
 An advanced Power BI Dashboard that moves beyond static reporting into **Statistical Forecasting** and **AI-Driven Risk Analysis**.
 
