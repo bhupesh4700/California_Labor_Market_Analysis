@@ -18,3 +18,6 @@ An advanced Power BI Dashboard that moves beyond static reporting into **Statist
 - DAX (Calculated Measures)
 - Power Query (ETL)
 - Statistical Modeling
+<img width="2574" height="1444" alt="image" src="https://github.com/user-attachments/assets/5bf59c5f-46f8-4eee-817e-c345888ffd94" />
+<img width="2570" height="1448" alt="image" src="https://github.com/user-attachments/assets/25ba4cc9-4ef0-4cad-8bab-969338e50858" />
+<img width="2572" height="1452" alt="image" src="https://github.com/user-attachments/assets/cc3e2161-31ea-453f-b4fa-d9916837b3bb" />
